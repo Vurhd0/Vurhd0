@@ -1,7 +1,7 @@
 <h1> Hi, I'm Dhruv Singh</h1>
 
 <p>
-  <strong>BTech+MTech Student | AI/ML & Computer Vision Enthusiast</strong><br>
+  <strong>BTech+MTech Student | AI Engineer | AI/ML & Python Enthusiast</strong><br>
   📍 India &nbsp;|&nbsp; 🤖 GenaAI • Deep learning • Smart Systems
 </p>
 
