@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Dhruv Singh</h1>
+<h1> Hi, I'm Dhruv Singh</h1>
 
-<p align="center">
+<p>
   <strong>BTech+MTech Student | AI/ML & Computer Vision Enthusiast</strong><br>
   📍 India &nbsp;|&nbsp; 🤖 GenaAI • Deep learning • Smart Systems
 </p>
@@ -17,3 +17,8 @@
 ![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?logo=weightsandbiases&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+
+### 📫 Connect
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vurhd0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vurhd-singh/)
