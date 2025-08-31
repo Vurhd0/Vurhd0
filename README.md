@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-### GitHub Stats
+<!-- ### GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vurhd0&show_icons=true&theme=radical)
 
 ### Top Languages
@@ -29,4 +29,4 @@
 
 ### 📫 Connect
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhruvsing2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vurhd-singh/](https://www.linkedin.com/in/dhruv-singh-b12768285/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vurhd-singh/](https://www.linkedin.com/in/dhruv-singh-b12768285/))-->
