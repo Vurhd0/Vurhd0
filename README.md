@@ -26,7 +26,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vurhd0&theme=tokyonight)
 
-
+-->
 ### 📫 Connect
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhruvsing2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vurhd-singh/](https://www.linkedin.com/in/dhruv-singh-b12768285/))-->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vurhd-singh/](https://www.linkedin.com/in/dhruv-singh-b12768285/))
