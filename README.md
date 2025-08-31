@@ -21,6 +21,11 @@
 ### GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vurhd0&show_icons=true&theme=radical)
 
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vurhd0&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vurhd0&theme=tokyonight)
+
 
 ### 📫 Connect
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhruvsing2003@gmail.com)
